@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["/[slug]/[[...path]]","/domain/[custom_domain]/[[...path]]"]),self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB();
